@@ -1,0 +1,14 @@
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\bin\Debug\PCR.exe.config
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\bin\Debug\PCR.exe
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\bin\Debug\PCR.pdb
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.csprojAssemblyReference.cache
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.Form1.resources
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.Properties.Resources.resources
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.exe
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.pdb
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.Form2.resources
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.Form3.resources
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.Form4.resources
+C:\Users\Radu\Desktop\PCRWF\PCR\PCR\obj\Debug\PCR.ChangePas.resources
